@@ -16,5 +16,5 @@ let boolean = "nmm"
 let valaueBoolean = Boolean(boolean)
 let numberBoolean = Number(boolean)
 console.log(boolean);
-console.log(numberBoolean);
-console.log(valaueBoolean);
+console.log(typeof numberBoolean);
+console.log(typeof valaueBoolean);
